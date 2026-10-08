@@ -9,12 +9,12 @@ run_worker_first = [
 
 [[d1_databases]]
 binding = "DB"
-database_id = "06ea6714-1177-4b47-90f1-6303494579d9"
+database_id = "1c5acb30-c115-4339-8bb8-0ea301baf19f"
 database_name = "notes-db"
 
 [[kv_namespaces]]
 binding = "NOTES_KV"
-id = "  fee440f8d5e148b8bb4412d566427838"
+id = "fbf701feb96f4573b5160116cf0c3fd7"
 preview_id = ""
 
 [[r2_buckets]]
